@@ -19,5 +19,11 @@ I'm a master's student in Mechatronics and Cyber-Physical Systems, passionate ab
 - 🔸 [Path Planning Research]
 - 🔸 [ML with Kaggle – Titanic Challenge]
 
+🚀 Currently building:  
+- A VR training prototype for industrial environments  
+- A ROS-based robotic simulation with Unity
+
+🔧 Skills: Unity • ROS • Python • C# • Simulation • Robotics • Digital Twin • SLAM • LiDAR
+
 Let’s build tech that feels human.  
 📬 Reach out: [prasadvnv.github.io](https://github.com/prasadvnv) • [LinkedIn](https://linkedin.com/in/vishnu-prasad-n-v-4592401b3)
