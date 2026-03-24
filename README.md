@@ -26,4 +26,4 @@ I'm a master's student in Mechatronics and Cyber-Physical Systems, passionate ab
 🔧 Skills: Unity • ROS • Python • C# • Simulation • Robotics • Digital Twin • SLAM • LiDAR
 
 Let’s build tech that feels human.  
-📬 Reach out: [prasadvnv.github.io](https://prasadvnv.github.io/) • [LinkedIn](https://linkedin.com/in/vishnu-prasad-n-v-4592401b3)
+📬 Reach out: [LinkedIn](https://linkedin.com/in/vishnu-prasad-n-v-4592401b3) • [Portfolio](https://prasadvnv.github.io/) 
